@@ -1,0 +1,6 @@
+Alice,Deposit,5
+Bob,Deposit,17
+Alice,Withdraw,3
+Bob,Deposit,3
+Alice,Check,0
+Bob,Check,1
